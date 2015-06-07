@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TabViewTest</string>
+    <string name="text_tab1">Открыта первая вкладка</string>
+    <string name="text_tab2">Открыта вторая вкладка</string>
+    <string name="text_tab3">Открыта третья вкладка</string>
+    <string name="text_tab_header">Заголовок вкладки</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
